@@ -3,8 +3,24 @@ title: "Background"
 ---
 
 ### Education
-I am currenlty a Biostatistics MS studnet at [Columbia Univeristy Mailman School of Public Health](https://www.mailman.columbia.edu/). I recieved a BS in Physiology and Neuroscience from [UC San Diego](https://ucsd.edu/). 
+I am currenlty a Biostatistics MS studnet at [Columbia Univeristy Mailman School of Public Health](https://www.mailman.columbia.edu/). I recieved a BS in Physiology and Neuroscience from [UC San Diego](https://ucsd.edu/) in 2017. 
+
+In my senior year, I worked on a project of using statistical method to analyze the binding activities of DNA transcription factors in [Glass Laboratory](http://cmm.ucsd.edu/glass/glasslab/index.html) at US San Diego. 
+
 
 
 ### Resume
 My resume is available [here](ShengnanSun_resume.pdf).
+
+
+### Contact Information
+
+Shengnan Sun
+
+154 Haven Ave, 1005
+
+New York, New York 10032
+
+Email: [ss5428@cumc.columbia.edu](mailto:ss5428@cumc.columbia.edu)  
+
+Phone: 8589254475
