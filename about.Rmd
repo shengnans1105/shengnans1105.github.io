@@ -1,7 +1,0 @@
----
-title: "About"
----
-
-### About this site
-
-This is the peronal website of Shengnan Sun. It is built with R, and is hosted from github. The source code can be found [here](https://github.com/shengnans1105/shengnans1105.github.io).
