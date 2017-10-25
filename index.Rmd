@@ -15,6 +15,12 @@ My name is Shengnan Sun. I am from Qingdao, China, a beautiful coastal city, fam
 \  
 \  
 
+<img src="image/photo.jpeg" style="width:85%; border:10px solid">
+
+\  
+\  
+\  
+
 #### About this site
 This is the peronal website of Shengnan Sun. It is built with R, and is hosted from github. The source code can be found [here](https://github.com/shengnans1105/shengnans1105.github.io).
 
